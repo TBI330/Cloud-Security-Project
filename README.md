@@ -5,9 +5,9 @@ The files in this repository were used to configure the network depicted below.
 
 ![](https://github.com/TBI330/Cloud-Security-Project/blob/main/Diagrams/Project%201%20Diagram-Page-1.drawio.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the [](https://github.com/TBI330/Cloud-Security-Project/raw/main/Ansible/install-elk.yml "Elk-Playbook") file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the  file may be used to install only certain pieces of it, such as Filebeat.
 
-  
+ [](https://github.com/TBI330/Cloud-Security-Project/raw/main/Ansible/install-elk.yml "Elk-Playbook") 
 
 This document contains the following details:
 - Description of the Topologu
