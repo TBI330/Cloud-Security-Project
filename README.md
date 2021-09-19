@@ -1,7 +1,7 @@
 # Cloud-Security-Project
 The files in this repository were used to configure the network depicted below.
 
-**Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
+ 
 
 ![](https://github.com/TBI330/Cloud-Security-Project/blob/main/Diagrams/Project%201%20Diagram-Page-1.drawio.png)
 
