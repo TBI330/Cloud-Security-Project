@@ -29,7 +29,7 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 Filebeat monitors the log files or locations that you specify, collects log events, and forwards them either to Elasticsearch or Logstash for indexing.
 Metricbeat is a lightweight agent that is installed on specific servers to periodically collect metric data from your target servers. Metricbeat takes the metrics and statistics from these servers and ships them to the an output, such as Elasticsearch.
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
