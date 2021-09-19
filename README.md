@@ -66,12 +66,10 @@ The playbook implements the following tasks:
 - Create a playbook that installs Docker and configures the container.
 - Run the playbook to launch the container.
 
-The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-
-**Note**: The following image link needs to be updated. Replace `docker_ps_output.png` with the name of your screenshot image file.  
+The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.  
 
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![](https://github.com/TBI330/Cloud-Security-Project/blob/main/Project_1/docker_ps_screenshot.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
